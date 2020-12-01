@@ -1,6 +1,5 @@
-import React, {useState, useEffect, Component} from 'react';
-import axios from 'axios';
-import {BrowserRouter as Router, Route, Redirect, Switch} from 'react-router-dom';
+import React, {useState} from 'react';
+
 
 const api = {
     key: "d3e46ed4e04945b09955e0fd5c515f72",
